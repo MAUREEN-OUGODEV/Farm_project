@@ -1,0 +1,102 @@
+body{
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+
+
+
+
+.section-homepage {
+    background-image: url('https://images.squarespace-cdn.com/content/v1/56cc8cc2ab48def1a6fac990/70e81453-46ed-4215-97c9-47811f99772e/EV3A7391-212.jpg');
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo{
+    height: 100px;
+    
+    
+}
+.logoLink{   
+    display:flex;  
+   
+    
+   }
+.Tinga{
+    color: rgb(19, 196, 19);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.link{
+    
+    font-size: 25px;
+    margin-left: -15%;
+}
+.latest{
+    text-decoration: none;
+}
+
+.text-uppercase {
+    text-transform: uppercase;
+    color: white;
+}
+.solution{
+  color: rgb(15, 235, 15);  
+}
+
+
+.home_title {
+    text-align: center;
+    padding-top: 180px;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.boxwrapper {
+    padding-top: 20px;
+}
+
+.form-group {
+    padding-bottom: 60px;
+}
+
+.searchsubmit {
+    margin-left: -10px;
+    border-radius: 0px 10px 10px 0px;
+}
+
+.searchbox {
+    height: 68px;
+    width: 450px;
+    border: none;
+    border-radius: 10px;
+    /* font-size: 14px; */
+}
+
+.searchbox:focus {
+    outline: none;
+}
+
+.searchbox::placeholder {
+    font-size: 20px;
+    text-align: center;
+}
+
+.searchsubmit {
+    height: 70px;
+    width: 200px;
+    border: none;
+    border-left: 0.1px solid rgb(143, 141, 141);
+    background-color: rgb(7, 114, 7);
+    color: aliceblue;
+}
+
+.title {
+    font-weight: 400;
+    font-family: Barlow, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 60px 0px;
+}
+
+@media screen and (max-width: 600px) {
+    .searchform {
+        display: none;
+    }
+}
