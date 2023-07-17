@@ -1,9 +1,8 @@
 # E-tinga Moringa School Group Project
 #### E-tinga website
-#### Created By Wilson Kinyua Muthoni,Aron Langat,Edwin Kipchumba and Esther Moki on 21-06-2021
-## Description
+#### Created By
 
-E-Tinga is a project that employs modern technology channels to allow farmers access farm mechanization. One of these being its online-based platforms that enable farmers to order for services as groups or individuals using hand gadgets such as mobile phones, tablets,s or computers. This accessibility enables even small-scale farmers to enjoy farming equipment on short-term leases. Etinga Community Model Concept works by allowing farmers to register for mechanization services as groups through already established units such as NGOs, Chama, SACCO, Co-operative Societies, or Churches.
+An initiative called TingTinga uses modern technologies to give farmers access to farm mechanization. One of these is its web-based platforms, which let farmers place individual or group service orders using handheld electronic devices like laptops, tablets, and mobile phones. Due to this accessibility, even small-scale farmers can lease farming equipment for a limited time. Farmers can register for mechanized services through existing established organizations such as NGOs, Chama, SACCOs, Co-operative Societies, or Churches using the Etinga Community Model Concept.
 
 ## Setup/Installation Requirements 😃
 * Git
@@ -26,7 +25,7 @@ E-Tinga is a project that employs modern technology channels to allow farmers ac
 
 ## Setup/Installation Requirements
 
-* Live link to view the project <a href="https://wilsonkinyua.github.io/e-tinga-moringa-school-project/">View E-tinga project</a>
+* Live link to view the project <a href="https://wilsonkinyua.github.io/e-tinga-moringa-school-project/">View TingaTing project</a>
 ## Some images used
 <img src="./assets/screenshots/1.png" alt="screenshot" />
 <img src="./assets/screenshots/2.png" alt="screenshot" />
@@ -37,17 +36,12 @@ E-Tinga is a project that employs modern technology channels to allow farmers ac
 <img src="./assets/screenshots/8.png" alt="screenshot" />
 
 ## Known Bugs
- So far so good there are no bugs related to this project 😎
+ So far so good there are no bugs related to this project 
 ## Support and contact details 🙂
 To make a contribution to the code used or any suggestions you can click on the contact link and email me your suggestions.
-* Email :wilson@developerwilson.com,
-        :lankipkoecharo@gmail.com,
-        :edwinkolem5@gmail.com,
-        :esther.moki@student.moringaschool.com
+* Email :
+ougomaureen@gmail.com
 
-* Phone : +254717255460
-        : +254705378641
-        : +254728357619
-        : +254713439798
+
 ## License
-* MIT licence Copyright (c) 2021 Moringa school.
+* MIT licence Copyright (c) 2023.
