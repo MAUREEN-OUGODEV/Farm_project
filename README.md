@@ -1,4 +1,4 @@
-# TingaTingGroup Project
+# TingaTing Project
 #### TingaTing website
 #### Created By
 
