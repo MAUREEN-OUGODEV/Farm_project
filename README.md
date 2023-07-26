@@ -1,5 +1,5 @@
 # TingaTingGroup Project
-#### E-tinga website
+#### TingaTing website
 #### Created By
 
 An initiative called TingTinga uses modern technologies to give farmers access to farm mechanization. One of these is its web-based platforms, which let farmers place individual or group service orders using handheld electronic devices like laptops, tablets, and mobile phones. Due to this accessibility, even small-scale farmers can lease farming equipment for a limited time. Farmers can register for mechanized services through existing established organizations such as NGOs, Chama, SACCOs, Co-operative Societies, or Churches using the Etinga Community Model Concept.
