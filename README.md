@@ -1,4 +1,4 @@
-# E-tinga Moringa School Group Project
+# TingaTingGroup Project
 #### E-tinga website
 #### Created By
 
@@ -25,15 +25,7 @@ An initiative called TingTinga uses modern technologies to give farmers access t
 
 ## Setup/Installation Requirements
 
-* Live link to view the project <a href="https://wilsonkinyua.github.io/e-tinga-moringa-school-project/">View TingaTing project</a>
-## Some images used
-<img src="./assets/screenshots/1.png" alt="screenshot" />
-<img src="./assets/screenshots/2.png" alt="screenshot" />
-<img src="./assets/screenshots/3.png" alt="screenshot" />
-<img src="./assets/screenshots/4.png" alt="screenshot" />
-<img src="./assets/screenshots/5.png" alt="screenshot" />
-<img src="./assets/screenshots/6.png" alt="screenshot" />
-<img src="./assets/screenshots/8.png" alt="screenshot" />
+* Live link to view the project <a href="https://tingating-website.netlify.app/">View TingaTing project</a>
 
 ## Known Bugs
  So far so good there are no bugs related to this project 
